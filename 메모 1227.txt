@@ -1,0 +1,57 @@
+1. 3개 정수 중 최대값을 찾는 함수 Maximum(x,y,z)
+
+2. 화면에 hello 출력 SayHello 함수
+	- int 타입 매개변수 받아서 그 횟수만큼 반복출력
+
+3. 두변의 길이가 주어졌을때 빗변구하는 함수 Hypot()
+	-매개변수 2개 타입 double
+	-return 타입 double
+
+4. 주어진 수가 소수 여부 찾는 함수 prime()
+	- 2~100 사이 값 중 소수 모두 출력
+
+//
+for (int index = 2; index <=100: index++)
+      {
+	if(findprime(index))
+	{
+		console.write("{0}", index);
+	}
+      }
+---------
+for(int index = number - 1; 2<= index; index--)
+{
+	if(number % index == 0)
+	{
+		isprime = false;
+		break;
+	}
+	else { continue; }
+}
+return isprime
+//
+
+
+5. 사용자가 입력하는 전화번호에서 소괄호를 삭제한 형태로 출력하는 프로그램 작성
+	-전화번호를 입력 받는다.
+	-quit 입력시 프로그램 종료
+	-종료 전에 입력받는다.
+
+과제 - 슬라이딩 퍼즐
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
